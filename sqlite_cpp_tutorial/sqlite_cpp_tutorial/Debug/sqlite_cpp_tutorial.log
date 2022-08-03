@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  sqlite_cpp_tutorial.vcxproj -> C:\Users\AnkurTiwary-AvionGro\Desktop\dev_local\sql\sqlite_cpp_tutorial\Debug\sqlite_cpp_tutorial.exe
+C:\Users\AnkurTiwary-AvionGro\Desktop\dev_local\sql\WebBackendJournal\sqlite_cpp_tutorial\sqlite_cpp_tutorial\main.cpp(8,11): warning C4101: 'DB': unreferenced local variable
+  sqlite_cpp_tutorial.vcxproj -> C:\Users\AnkurTiwary-AvionGro\Desktop\dev_local\sql\WebBackendJournal\sqlite_cpp_tutorial\Debug\sqlite_cpp_tutorial.exe
